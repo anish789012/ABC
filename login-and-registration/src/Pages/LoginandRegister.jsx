@@ -1,6 +1,6 @@
 import React from 'react'
 
-const FormInput = () => {
+const LoginandRegister = () => {
   return (
     <div>
       
@@ -8,4 +8,5 @@ const FormInput = () => {
   )
 }
 
-export default FormInput
+export default LoginandRegister
+
